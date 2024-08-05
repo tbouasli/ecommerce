@@ -1,0 +1,6 @@
+{
+  "name": "@ecommerce/root",
+  "devDependencies": {
+    "changeset": "^0.2.6"
+  }
+}
